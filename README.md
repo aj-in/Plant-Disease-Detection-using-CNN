@@ -6,3 +6,7 @@ The trained model classifies the leaves into the following categories:
  1) Early Blight
  2) Late Blight 
  3) Healthy leave (No disease)
+
+
+<br>
+(friendly advice : If you wish to run this notebook, check version of what version of python is supported by tensorflow ! )
