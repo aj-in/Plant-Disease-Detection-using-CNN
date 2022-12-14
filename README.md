@@ -9,4 +9,4 @@ The trained model classifies the leaves into the following categories:
 
 
 <br>
-(friendly advice : If you wish to run this notebook, check version of what version of python is supported by tensorflow ! )
+(friendly advice : If you wish to run this notebook, check what version of python is supported by tensorflow, and then install that version of python ! )
