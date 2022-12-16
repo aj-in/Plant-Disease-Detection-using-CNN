@@ -2,10 +2,8 @@
 
 <br/>
 
-PlantDoc is an end-to-end website built using ReactJS FastAPI, which uses a trained CNN model to classify the condition of a plant. A simple image of the leaf of a tomato plant is required as the user input.
+PlantDoc is an end-to-end website built using frameworks like ReactJS and FastAPI. A simple image of the leaf of a tomato plant is required as the user input. This website uses a trained CNN model to classify the condition of a plant. FastAPI was used to build a RESTful API which served the results of this classification to the user. The front end was developed using ReactJS.
 
-
-The model used the concept of data augumentaion to train the model in different scenarios. TensorFlow dataset was used to store training images in batches.
 
 Most of the times it is difficult manually identify each crop and asses its growth, health. To solve this repetitive task Convolutional Neural Networks were deployed on a website, which would take an input from a farmer and classify whether a tomato plant has a given disease or not. Based on the image of the leaf, 
 this model ultimately aims to detect blight in leaves of tomato plant. 
