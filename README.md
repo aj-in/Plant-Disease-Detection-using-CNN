@@ -1,7 +1,7 @@
 # PlantDoc
 
-Most of the times it is difficult manually identify each crop and asses its growth, health. To solve this repetitive task Convolutional Neural Networks were deployed on a website, which would take an input from a farmer and classify whether a tomato plant has a given disease or not (based on the image of the leaf)
-This projects ultimately aims to detect blight in leaves of tomato plant using CNN 
+Most of the times it is difficult manually identify each crop and asses its growth, health. To solve this repetitive task Convolutional Neural Networks were deployed on a website, which would take an input from a farmer and classify whether a tomato plant has a given disease or not. Based on the image of the leaf, 
+this model ultimately aims to detect blight in leaves of tomato plant. 
 
 ###
 The trained model classifies the leaves into the following categories:
