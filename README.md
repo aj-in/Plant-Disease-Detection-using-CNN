@@ -1,5 +1,7 @@
-# Plant-Disease-Detector-using-CNN
-This projects aims to detect blight in leaves of tomato plant using CNN 
+# PlantDoc
+
+Most of the times it is difficult manually identify each crop and asses its growth, health. To solve this repetitive task Convolutional Neural Networks were deployed on a website, which would take an input from a farmer and classify whether a tomato plant has a given disease or not (based on the image of the leaf)
+This projects ultimately aims to detect blight in leaves of tomato plant using CNN 
 
 ###
 The trained model classifies the leaves into the following categories:
@@ -9,7 +11,7 @@ The trained model classifies the leaves into the following categories:
 
 
 <br/>
-(friendly advice : If you wish to run this notebook, check what version of python is supported by tensorflow, and then install that version of python ! )
+(friendly advice : If you wish to run the notebook, check what version of python is supported by tensorflow, and then install that version of python ! )
 
 
 <br/>
